@@ -8,6 +8,7 @@ public class RecipeManager {
 
     public static void main(String[] args) {
 
+        // For Main Menu
         while (true) {
             System.out.println("\nRecipe Management System");
             System.out.println("1. Add Recipe");
